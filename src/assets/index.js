@@ -1,6 +1,6 @@
 import bannerImg from "./IMG_20230615_084630-removebg-preview.png";
 import contactImg from "./images/contact/contactImg.png";
-import ecom1 from './images/projects/e1.png';
+import ecom1 from './images/projects/e1.webp';
 import ecom10 from './images/projects/e10.png';
 import ecom2 from './images/projects/e2.png';
 import ecom3 from './images/projects/e3.png';

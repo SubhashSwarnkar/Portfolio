@@ -20,7 +20,7 @@ const Features = () => {
         />
         <Card
           title="Backend Web Development"
-          des="Develop and maintain server-side applications, ensuring scalability, security, and performance. Design and optimize database queries using NoSQL and SQL databases, build and manage RESTful and GraphQL APIs, implement authentication and authorization, and handle server-side business logic, caching, and integrations with third-party services."
+          des="Develop and maintain server-side applications, ensuring scalability, security, and performance. Design and optimize database queries using NoSQL , build and manage RESTful and GraphQL APIs, implement authentication and authorization, and handle server-side business logic, caching, and integrations with third-party services."
           icon={<AiFillAppstore />}
         />
         <Card

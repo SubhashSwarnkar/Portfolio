@@ -51,8 +51,8 @@ const Education = () => {
             des="Expanding expertise in both frontend and backend technologies. Developing scalable web applications using MongoDB, Express.js, Node.js, and REST APIs. On the frontend, leveraging modern libraries like Lottie, Framer Motion, and MUI to enhance UI/UX and interactivity."
           />
           <ResumeCard
-            title="Full-Stack Developer"
-            subTitle="Thetrifusion Pvt.Ltd (5/6/2024- Current)"
+            title="Forntend Developer"
+            subTitle="TheTrifusion Pvt.Ltd (18/5/2024- Current)"
             result="Current"
             des="Continuously expanding expertise in both frontend and backend technologies. Developing scalable web and mobile solutions and collaborating with global clients."
           />
