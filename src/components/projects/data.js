@@ -39,7 +39,7 @@ import {
 export const data = [
   {
     id: 1,
-    name: "FarmBors – A Hyperlocal E-commerce Platform for Farm & Grocery Needs (#MERN)",
+    name: "FarmBors – A Hyperlocal E-commerce Platform for Farm & Grocery Needs (web/app)",
     desc: "FarmBors is a hyperlocal e-commerce platform connecting customers with nearby grocery stores and farm produce suppliers. It offers seamless shopping with location-based store listings, easy checkout, and real-time order tracking. Store managers manage inventory, process orders, and assign deliveries, while delivery personnel ensure timely fulfillment. The admin panel oversees users, stores, and transactions. Built with React (web), Node.js, Express, and MongoDB (backend), FarmBors streamlines farm-to-table commerce while supporting local businesses. 🚀",
     img: [
       ecommerce,
