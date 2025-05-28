@@ -47,7 +47,7 @@ export const data = [
       
     ],
    
-    liveLink: "https://farmbros-frondend.vercel.app/",
+    liveLink: "https://dailyconceptsindia.com/",
   },
   {
     id: 2,
