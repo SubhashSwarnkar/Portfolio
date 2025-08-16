@@ -49,15 +49,15 @@ const LeftBanner = () => {
           <span className="bannerIcon">
             <DiJavascript1 />
           </span>
-          <span className="bannerIcon">
-            <SiExpress />
-          </span>
-          <span className="bannerIcon">
-            <DiMongodb />
-          </span>
-          <span className="bannerIcon">
-            <FaNodeJs />
-          </span>
+          // <span className="bannerIcon">
+          //   <SiExpress />
+          // </span>
+          // <span className="bannerIcon">
+          //   <DiMongodb />
+          // </span>
+          // <span className="bannerIcon">
+          //   <FaNodeJs />
+          // </span>
           <span className="bannerIcon">
             <SiMui />
           </span>
