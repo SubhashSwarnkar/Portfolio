@@ -18,16 +18,16 @@ const Features = () => {
           des="Design, develop, and optimize responsive user interfaces for websites and web applications based on UI/UX designs. Implement modern front-end technologies, ensuring seamless navigation, cross-browser compatibility, and performance optimization. Integrate and manage REST APIs for dynamic data rendering, handle authentication and state management, and enhance user experience through interactive components, animations, and accessibility best practices."
          
         />
-        <Card
-          title="Backend Web Development"
-          des="Develop and maintain server-side applications, ensuring scalability, security, and performance. Design and optimize database queries using NoSQL , build and manage RESTful and GraphQL APIs, implement authentication and authorization, and handle server-side business logic, caching, and integrations with third-party services."
-          icon={<AiFillAppstore />}
-        />
-        <Card
-          title="Full Stack Web Development"
-          des="Develop and manage both front-end and back-end components to create fully functional web applications. Work with databases, servers, and APIs (MERN stack) to ensure seamless data flow and application performance. Implement authentication, state management, and cloud deployments while ensuring a responsive and user-friendly UI/UX."
-          icon={<SiProgress />}
-        />
+        // <Card
+        //   title="Backend Web Development"
+        //   des="Develop and maintain server-side applications, ensuring scalability, security, and performance. Design and optimize database queries using NoSQL , build and manage RESTful and GraphQL APIs, implement authentication and authorization, and handle server-side business logic, caching, and integrations with third-party services."
+        //   icon={<AiFillAppstore />}
+        // />
+        // <Card
+        //   title="Full Stack Web Development"
+        //   des="Develop and manage both front-end and back-end components to create fully functional web applications. Work with databases, servers, and APIs (MERN stack) to ensure seamless data flow and application performance. Implement authentication, state management, and cloud deployments while ensuring a responsive and user-friendly UI/UX."
+        //   icon={<SiProgress />}
+        // />
         <Card
   title="Freelancing"
   des="Work independently on diverse projects, offering web development, UI/UX design, and API integrations. Collaborate with clients, manage timelines, and deliver high-quality, scalable solutions. Handle everything from front-end interfaces to back-end logic while ensuring optimal performance and user experience."
